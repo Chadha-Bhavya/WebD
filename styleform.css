@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+}
+
+#Red_World{
+    color: red;
+    
+}
+
+.D6{
+    margin: 0;
+}
+
+.D7, .D8{
+    margin: auto;
+    text-align: justify;
+    line-height: 18px;
+    font-size: large;
+
+}
+table,th,td,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+*:not(.big){
+    font-size: xx-small;
+}
